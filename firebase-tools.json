@@ -1,0 +1,45 @@
+{
+	"analytics-uuid": "0389c228-6c50-45b5-8e9a-7e134bf27f9e",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1630995158321
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "100672007094650773410",
+		"email": "amith.carmela@gmail.com",
+		"email_verified": true,
+		"at_hash": "0JrYnXNBNzNnKNVUgNYBMw",
+		"iat": 1630995355,
+		"exp": 1630998955
+	},
+	"tokens": {
+		"expires_at": 1630999131168,
+		"refresh_token": "1//0gRykO7pWw64VCgYIARAAGBASNwF-L9IrnOvtHSZ8Ld3E3H1i9YNSivLKTYWjp2GlF8fRA-8P5WwwUOTGSaxsg72R8Q-kKgAIAmw",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.a0ARrdaM8CW4WgrYSxJyabcAy1pGiw7ZpVE0NaAqU0jopwXAWB7Pr5Xw1nuvEnOGZJwNy-KO5Rr2ttO9QhEX55TlOppJTKsd-vgT2YTn_O_Xdh5sXOeDggBCbJjYlf9IKkNDah6exQT3k6fhR0tC_2onEx9l8nZffIIFjH",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/firebase openid https://www.googleapis.com/auth/userinfo.email",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk5MWIwNjM2YWFkYTM0MWM1YTA4ZTBkOGYyNDA2OTcyMDY0ZGM4ZWQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTAwNjcyMDA3MDk0NjUwNzczNDEwIiwiZW1haWwiOiJhbWl0aC5jYXJtZWxhQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiUm1mXzJEeEYzVE1uaTNPZ2Y4eHFIQSIsImlhdCI6MTYzMDk5NTUzNSwiZXhwIjoxNjMwOTk5MTM1fQ.Teg_QD_82sW2Qn89RH_4RmrInjYyZ5RewAy9lweIOw164noJPVxOc7Rf2_R9WduMDwAKVs63PKUXiEIbIWJQEFWu0uhsVlsl3IpgsZmNCUhnbFq9gblyqX1e2RkuTK1v40YlbyuSGv5krKFrQXp0gZJ5HVXRatD21n7XSEBpnL5jyMAGaS-vvitj2Hiz0DZzPhp9nFdMCvYearOIwYN669-vxBoIk2nzp3uOSP1gwBf0PiaFuDOA5qHB_DeAOOKyKG5S0kQrHoABqy92aMY3WcWznl6KMGk6OqIiBdw_giDQLW3FhzaHn3sa2qzJQcDIQ-Om4wZ8f5p-kOvwtkZjKw"
+	},
+	"activeProjects": {
+		"C:\\Users\\sys\\firebase": "iot-project-c3144"
+	},
+	"lastError": 1630996105354
+}
